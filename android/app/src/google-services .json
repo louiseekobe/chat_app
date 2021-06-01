@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7539715734",
+    "project_id": "chat-application-eb9ff",
+    "storage_bucket": "chat-application-eb9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7539715734:android:f7a244b08fdb43dc0a5cb7",
+        "android_client_info": {
+          "package_name": "com.supdeco.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7539715734-ncvco7o8p013gphdjlsc8fgufjhlqcp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNks5gFxLh9aER9qw3onMB34_wskfEP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7539715734-ncvco7o8p013gphdjlsc8fgufjhlqcp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
